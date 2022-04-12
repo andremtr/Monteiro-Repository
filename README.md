@@ -1,2 +1,2 @@
-# Monteiro-Repository
-Projeto Do Repositório do GitHub
+# Projeto dedicado ao desafio de Repositório no GitHub
+Monteiro-Repository
